@@ -6,3 +6,5 @@ strong my passion for this field and a great sense of curiosity for this profess
 I wish to join (for an internship from January 4, 2021) a dynamic company, whose vector of success, the human dimension, the latest technologies, and supervision are essential,
 
 
+![Screenshot from 2020-11-07 21-46-05](https://user-images.githubusercontent.com/62347570/98451117-2f98ca80-2143-11eb-86cc-a26e32b9036e.png)
+
