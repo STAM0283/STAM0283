@@ -1,4 +1,9 @@
-Hi I'm Amine, React JS / Node JS developer. I am passionate about the world of web programming, I naturally oriented myself towards a career as a web developer. I just finished my training at the Wild Code School in Lyon, France, and also my project for the passage of the professional title Web and mobile developer. With my passion for this field and a great sense of curiosity, I am a dynamic, rigorous person who is very committed to my work. I want to join a dynamic company, whose vector of success, the human dimension, the latest technologies, and supervision are essential.
+Hi I'm Amine, Angular/.net Developer at DTeK Consulting. With my passion for the field of IT development and a great sense of curiosity, I am a dynamic, rigorous person, and very invested in my work.
+My current projects are : 
+● Frontend development with Angular 13 (HTML5, CSS3 and
+JavaScript/TypeScript).
+● Creation of Rest API with an N-Tier architecture (.Net, C#, Entity Framework).
+● Database modeling with SQL Server.
 
 ![Screenshot from 2020-11-07 21-46-05](https://user-images.githubusercontent.com/62347570/98451117-2f98ca80-2143-11eb-86cc-a26e32b9036e.png)
 
